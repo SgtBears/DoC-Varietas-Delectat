@@ -4649,7 +4649,7 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_CUSTOM_HOUSE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_CUSTOMS_HOUSE</BuildingClassType>
 					<BuildingType>BUILDING_PORTUGUESE_FEITORIA</BuildingType>
 				</Building>
 				<Building>
