@@ -395,9 +395,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_WORK_BOAT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ITALIAN_WORKBOAT</EarlyArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WORK_BOAT_ANCIENT</EarlyArtDefineTag>
 						<MiddleArtDefineTag>ART_DEF_UNIT_ITALIAN_WORKBOAT</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ITALIAN_WORKBOAT</LateArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WORK_BOAT_MODERN</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

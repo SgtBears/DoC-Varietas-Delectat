@@ -96,19 +96,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_SPEARMAN_CHINESE_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -122,9 +122,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_CHINESE</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_CHINESE</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_CHINESE</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_CHINESE_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_CHINESE_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_CHINESE_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

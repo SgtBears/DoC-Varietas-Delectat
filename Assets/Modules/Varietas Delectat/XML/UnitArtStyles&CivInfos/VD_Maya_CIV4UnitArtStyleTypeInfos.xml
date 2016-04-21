@@ -128,19 +128,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_SPEARMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_MAYAN_HOLKAN_SPEARMAN_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

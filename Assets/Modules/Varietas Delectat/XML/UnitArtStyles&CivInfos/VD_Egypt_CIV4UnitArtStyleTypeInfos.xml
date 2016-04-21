@@ -114,9 +114,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_EGYPTIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_ARCHER_EGYPTIAN_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_ARCHER_EGYPTIAN_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_ARCHER_EGYPTIAN_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -138,19 +138,19 @@
 				<StyleUnit>
 					<UnitType>UNIT_AXEMAN</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_AXEMAN_EGYPTIAN_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
@@ -195,9 +195,9 @@
 				<StyleUnit>
 					<UnitType>UNIT_HORSE_ARCHER</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_EGYPTIAN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_EGYPTIAN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_EGYPTIAN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_EGYPTIAN_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_EGYPTIAN_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_HORSE_ARCHER_EGYPTIAN_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

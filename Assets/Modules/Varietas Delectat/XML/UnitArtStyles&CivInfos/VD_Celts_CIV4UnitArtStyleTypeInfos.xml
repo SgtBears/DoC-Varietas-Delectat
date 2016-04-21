@@ -190,14 +190,14 @@
 				<StyleUnit>
 					<UnitType>UNIT_CHARIOT</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC_VD</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC_VD</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_CHARIOT_CELTIC_VD</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
