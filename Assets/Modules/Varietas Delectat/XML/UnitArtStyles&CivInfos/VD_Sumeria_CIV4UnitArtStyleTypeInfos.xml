@@ -471,21 +471,21 @@
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>
-					<UnitType>UNIT_OTTOMAN_JANISSARY</UnitType>
+					<UnitType>UNIT_TURKISH_JANISSARY</UnitType>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_TURKISH_JANISSARY_OFFICER</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_TURKISH_JANISSARY_OFFICER</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_TURKISH_JANISSARY_OFFICER</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_TURKISH_JANISSARY_GREEN</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_TURKISH_JANISSARY_GREEN</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_TURKISH_JANISSARY_GREEN</LateArtDefineTag>
 					</UnitMeshGroup>
 					<UnitMeshGroup>
-						<EarlyArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</EarlyArtDefineTag>
-						<MiddleArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</MiddleArtDefineTag>
-						<LateArtDefineTag>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</LateArtDefineTag>
+						<EarlyArtDefineTag>ART_DEF_UNIT_TURKISH_JANISSARY_RED</EarlyArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_TURKISH_JANISSARY_RED</MiddleArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_TURKISH_JANISSARY_RED</LateArtDefineTag>
 					</UnitMeshGroup>
 				</StyleUnit>
 				<StyleUnit>

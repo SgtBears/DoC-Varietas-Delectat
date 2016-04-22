@@ -6,6 +6,7 @@
 <!-- Building art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
+		<!-- Palace -->
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_PALACE</Type>
 			<LSystem>LSYSTEM_PALACE</LSystem>
@@ -16,6 +17,7 @@
 			<KFM/>
 			<Button>,Art/Interface/Buttons/Buildings/Palace.dds,Art/Interface/Buttons/Buildings_Atlas.dds,6,5</Button>
 		</BuildingArtInfo>
+		<!-- Buildings -->
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_WALLS</Type>
 			<LSystem>LSYSTEM_WALLS</LSystem>
@@ -158,7 +160,7 @@
 			<Button>,Art/Interface/Buttons/Buildings/Aqueduct.dds,Art/Interface/Buttons/Buildings_Atlas.dds,4,1</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
-			<Type>ART_DEF_BUILDING_OTTOMAN_HAMMAM</Type>
+			<Type>ART_DEF_BUILDING_TURKISH_HAMMAM</Type>
 			<LSystem>LSYSTEM_2x2</LSystem>
 			<bAnimated>0</bAnimated>
 			<fScale>1.5</fScale>
@@ -1367,6 +1369,7 @@
 			<KFM/>
 			<Button>Art/Structures/Buildings/Adur_Farnbag/AdurFarnbag_Button.dds</Button>
 		</BuildingArtInfo>
+		<!-- National Wonders -->
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_TRIUMPHAL_ARCH</Type>
 			<LSystem>LSYSTEM_2x1</LSystem>
@@ -1467,6 +1470,7 @@
 			<KFM/>
 			<Button>,Art/Interface/Buttons/Buildings/RedCross.dds,Art/Interface/Buttons/Buildings_Atlas.dds,7,9</Button>
 		</BuildingArtInfo>
+		<!-- World Wonders -->
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_GREAT_SPHINX</Type>
 			<LSystem>LSYSTEM_3x3</LSystem>

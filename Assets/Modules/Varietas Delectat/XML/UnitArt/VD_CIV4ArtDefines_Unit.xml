@@ -13127,7 +13127,7 @@
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
-<!-- VD mod BEGIN Ottoman UnitArt                                                                                                                   -->
+<!-- VD mod BEGIN Turkish UnitArt                                                                                                                   -->
 <!--________________________________________________________________________________________________________________________________________________-->
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ARCHER_OTTOMAN</Type>
@@ -13429,7 +13429,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_OTTOMAN_JANISSARY_OFFICER</Type>
+			<Type>ART_DEF_UNIT_TURKISH_JANISSARY_OFFICER</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,2,10</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -13453,7 +13453,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_OTTOMAN_JANISSARY_GREEN</Type>
+			<Type>ART_DEF_UNIT_TURKISH_JANISSARY_GREEN</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,2,10</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -13477,7 +13477,7 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_OTTOMAN_JANISSARY_RED</Type>
+			<Type>ART_DEF_UNIT_TURKISH_JANISSARY_RED</Type>
 			<Button>,Art/Interface/Buttons/Units/Musketman.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,2,10</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -13861,7 +13861,7 @@
 		</UnitArtInfo>
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
-<!-- VD mod END Ottoman UnitArt                                                                                                                     -->
+<!-- VD mod END Turkish UnitArt                                                                                                                     -->
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--________________________________________________________________________________________________________________________________________________-->
 <!--                                                                                                                                                -->
