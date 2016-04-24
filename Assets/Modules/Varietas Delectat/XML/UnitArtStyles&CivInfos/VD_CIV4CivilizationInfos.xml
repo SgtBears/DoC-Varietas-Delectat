@@ -681,7 +681,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_SHIVAJI</LeaderName>
+					<LeaderName>LEADER_SHAHUJI</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -1143,7 +1143,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_AUGUSTUS</LeaderName>
+					<LeaderName>LEADER_AUGUSTUS_CAESAR</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -1250,7 +1250,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_RAJENDRA</LeaderName>
+					<LeaderName>LEADER_RAJENDRA_CHOLA</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -1461,7 +1461,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_WANGKON</LeaderName>
+					<LeaderName>LEADER_WANG_KON</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -1779,11 +1779,11 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_JIMMU</LeaderName>
+					<LeaderName>LEADER_KAMMU</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_TOKUGAWA</LeaderName>
+					<LeaderName>LEADER_ODA_NOBUNAGA</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -1886,7 +1886,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_GUSTAV</LeaderName>
+					<LeaderName>LEADER_GUSTAV_ADOLPH</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -1975,8 +1975,8 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_HARUN</LeaderName>
-					<bLeaderAvailability>1</bLeaderAvailability>
+					<LeaderName>LEADER_HARUN_AL_RASHID</LeaderName>
+					<bLeaderAvailability>1</al-RashidbLeaderAvailability>
 				</Leader>
 				<Leader>
 					<LeaderName>LEADER_SALADIN</LeaderName>
@@ -2105,7 +2105,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_SONGTSEN</LeaderName>
+					<LeaderName>LEADER_SONGTSEN_GAMPO</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -2436,11 +2436,11 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_RAHMAN</LeaderName>
+					<LeaderName>LEADER_ABD_AR_RAHMAN</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_YAQUB</LeaderName>
+					<LeaderName>LEADER_YAQUB_AL_MANSUR</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -2542,7 +2542,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_FILIPE</LeaderName>
+					<LeaderName>LEADER_PHILIP</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -3344,7 +3344,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_AFONSO</LeaderName>
+					<LeaderName>LEADER_AFONSO_HENRIQUES</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -3553,7 +3553,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_LORENZO</LeaderName>
+					<LeaderName>LEADER_LORENZO_DE_MEDICI</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -3878,7 +3878,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_IBN_TUGHLUQ</LeaderName>
+					<LeaderName>LEADER_MUHAMMAD_IBN_TUGHLUQ</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -3886,7 +3886,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_BHUTTO</LeaderName>
+					<LeaderName>LEADER_BENAZIR_BHUTTO</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -4662,11 +4662,11 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_FRANKLIN_ROOSEVELT</LeaderName>
+					<LeaderName>LEADER_LINCOLN</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_LINCOLN</LeaderName>
+					<LeaderName>LEADER_ROOSEVELT</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -5048,7 +5048,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_DOM_PEDRO</LeaderName>
+					<LeaderName>LEADER_PEDRO</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -6276,7 +6276,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_ALP</LeaderName>
+					<LeaderName>LEADER_ALP_ARSLAN</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
